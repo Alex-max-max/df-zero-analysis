@@ -34,6 +34,13 @@ build the project. It works the same on Windows, macOS and Linux.
 Open the folder of your clone in VS Code (or IntelliJ). The Java extension detects the Gradle project and
 downloads the dependencies; the first time takes a few minutes.
 
+### If your setup doesn't work: Docker
+
+If you can't get the JDK working, or the downloads never finish, use the course's Docker image: it has
+everything already installed and works without internet. Follow
+[these instructions](https://github.com/gtiit-cs-seminar/df-env/blob/main/STUDENTS.md). If you are *not*
+using Docker, ignore VS Code's "Reopen in Container" suggestion.
+
 ## 3. The homework
 
 **Part 1** (on paper, not submitted): fill the tables of the assignment. They are exactly what the code
