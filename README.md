@@ -38,8 +38,8 @@ downloads the dependencies; the first time takes a few minutes.
 
 If you can't get the JDK working, or the downloads never finish, use the course's Docker image: it has
 everything already installed and works without internet. Follow
-[these instructions](https://github.com/gtiit-cs-seminar/df-env/blob/main/STUDENTS.md). If you are *not*
-using Docker, ignore VS Code's "Reopen in Container" suggestion.
+[these instructions](https://github.com/gtiit-cs-seminar/df-env/blob/main/STUDENTS.md). You don't need it
+otherwise: the steps above are all the homework needs.
 
 ## 3. The homework
 
